@@ -1,5 +1,6 @@
 .container_menu-titulo {
   color: white;
+  margin-top: -60px;
 
 }
 
@@ -16,4 +17,8 @@
 .container_menu-titulo > hr {
   margin-top: 40px;
   margin-bottom: 10px;
+}
+
+hr {
+  color: #1a1818bd;
 }
