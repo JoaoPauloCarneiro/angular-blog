@@ -1,0 +1,30 @@
+.contairner_card-grande {
+
+  margin-left: 150px;
+  margin-right: 50px;
+  border-radius: 10px;
+  width: 500px;
+  height: 550px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+
+}
+.card-grande_titulo > h1 > a {
+  font-size: 30px;
+  margin-top: 15px;
+  display: flex;
+
+}
+.card-grande_descricao > p {
+  font-size: 20px;
+  color: gray;
+  margin-top: 20px;
+}
+
+.card-grande_foto > img {
+  width: 100%;
+  min-width: 500px;
+
+}
